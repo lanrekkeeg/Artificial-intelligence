@@ -1,2 +1,2 @@
 # Artificial-intelligence
-contain solved assignment of AI course.
+This repoitory will contain the solved assignment for AI-CS401 course.
